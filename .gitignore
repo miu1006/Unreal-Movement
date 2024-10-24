@@ -17,6 +17,6 @@ Packaged/
 .vscode/
 .vsconfig
 .idea/
-
+Plugins/
 # Solution file
 *.sln
